@@ -1,0 +1,18 @@
+body {
+    background-color: #f3f3f3;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    background-color: #ffffff;
+    color: rgb(206, 78, 28);
+}
+
+
+a {
+    color: rgb(206, 78, 28);
+    text-decoration: none;
+}
