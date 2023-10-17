@@ -1,0 +1,43 @@
+* {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigation {
+    text-align: center;
+    padding: 10px;
+    color: #337179;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h3 {
+    color: #337179;
+    margin: 10px;
+}
+
+.description {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.ingredients, .steps {
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.enjoy {
+        color: #337179;
+        text-transform: uppercase;
+        margin: 10px;
+        font-weight: bold;
+        text-align: center;
+}

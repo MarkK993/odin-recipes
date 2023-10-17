@@ -1,18 +1,46 @@
-body {
-    background-color: #f3f3f3;
+* {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
 }
 
-h1 {
-    text-align: center;
+body {
+    font-family: Arial, Helvetica, sans-serif;
 }
+h1 {
+    text-transform: uppercase;
+}
+
+.navigation {
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #49c5b1;
+    color: #fff;
+}
+
+.main {
+    max-width: 900px;
+    background-color: #ffffff;
+}
+
+.description {
+    margin: 0 10px;
+}
+
 
 ul {
-    background-color: #ffffff;
-    color: rgb(206, 78, 28);
+    list-style-type: none;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
 }
 
-
-a {
-    color: rgb(206, 78, 28);
+ul li a {
     text-decoration: none;
+    color: black;
+}
+
+ul li a:hover {
+    color: #49c5b1;
 }
